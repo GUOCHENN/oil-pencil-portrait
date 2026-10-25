@@ -1,0 +1,4 @@
+interface:
+  display_name: "窗光手绘肖像"
+  short_description: "真实照片转绘为细腻油画与彩铅，保留人物样貌、生活动作和关怀关系"
+  default_prompt: "使用 $oil-pencil-portrait 将这张真实照片转成温暖的油画与彩铅手绘，保留人物样貌与原有动作。"
